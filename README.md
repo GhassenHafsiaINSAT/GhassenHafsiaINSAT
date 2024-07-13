@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm GHASSEN</h1>
 
 ## About Me
-Electrical engineering student at INSAT, Tunisia
+- Electrical engineering student at INSAT, Tunisia
 
-Embeeded systems software enthousiast
+- Embeeded systems software enthousiast
 
-I am currently focusing on mastering linux kernel and modern cpp concepts 
+- I am currently focusing on mastering linux kernel and modern cpp concepts 
 
 ## My Competitions and Projects
 ### Eurobot finals 2024
