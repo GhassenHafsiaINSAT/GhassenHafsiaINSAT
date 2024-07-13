@@ -8,7 +8,7 @@ Embeeded systems software enthousiast
 I am currently focusing on mastering linux kernel and modern cpp concepts 
 
 ## My Competitions and Projects
-### Eurobot 2024
+### Eurobot finals 2024
 
 - The Eurobot competition in Roche-sur-Yon, France, is an annual international robotics contest where student teams design and build autonomous robots to complete specific tasks. This event fosters innovation, teamwork, and technical skills in robotics and engineering.
 
