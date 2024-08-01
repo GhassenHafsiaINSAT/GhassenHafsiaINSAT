@@ -14,10 +14,6 @@
 
 ![image](https://github.com/GhassenHafsiaINSAT/GhassenHafsiaINSAT/assets/110825502/43f34d11-d3db-4d42-9628-4e1af9512cec)
 
-- In the Eurobot competition, I worked on perception using the YDLIDAR X2 for precise environment mapping and implemented the RTT path planning algorithm to enhance the robot's navigation capabilities.
-
-| ![image](https://github.com/GhassenHafsiaINSAT/Path_Planning/assets/110825502/72078da2-c1f9-4e87-b79d-9c6cf8e18dcc)| ![image](https://github.com/GhassenHafsiaINSAT/Path_Planning/assets/110825502/a1f0b83d-d8aa-466e-a91a-36a0f2ce3d3a) | ![image](https://github.com/GhassenHafsiaINSAT/Path_Planning/assets/110825502/a0595ba6-e680-4110-8258-73daa7b3938f) |
-|---------------------------------------|---------------------------------------|---------------------------------------|
 
 
 <h3 align="left">Connect with me:</h3>
