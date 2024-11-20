@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm GHASSEN</h1>
 
 ## About Me
-- Industrial It and automation engineering student at INSAT, Tunisia
+- **Industrial It and automation** engineering student at **INSAT**, Tunisia
 
-- Passionate about low-level programming, Embedded Linux, and building efficient, real-time solutions.
+- Passionate about **low-level programming**, **Embedded Linux**, and building efficient, real-time solutions.
  
 ## My skills 
 - **Core Concepts & Tools**: Learning **ROS**, **path planning (RRT)**, **ARM Cortex-M4** architecture, **RTOS**, and **networking** basics (TCP/IP model, DHCP, DNS).
