@@ -6,7 +6,7 @@
 - Passionate about low-level programming, Embedded Linux, and building efficient, real-time solutions.
  
 ## My skills 
-- **Theoretical Knowledge**: Learning **ROS**, **path planning (RRT)**, **ARM Cortex-M4** architecture, **RTOS**, and **networking** basics (TCP/IP model, DHCP, DNS).
+- **Core Concepts & Tools**: Learning **ROS**, **path planning (RRT)**, **ARM Cortex-M4** architecture, **RTOS**, and **networking** basics (TCP/IP model, DHCP, DNS).
 
 - **Microcontrollers & Embedded Systems**: Worked with **STM32** and **Embedded Linux**; **ARM assembly** for low-level programming and debugging with **GDB**.
 
