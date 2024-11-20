@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm GHASSEN</h1>
 
-## About Me
+## Who I am 
+
 - **Industrial It and automation** engineering student at **INSAT**, Tunisia
 
 - Passionate about **low-level programming**, **Embedded Linux**, and building efficient, real-time solutions.
  
-## My skills 
+## Techincal skills 
+
 - **Core Concepts & Tools**: Learning **ROS**, **path planning (RRT)**, **ARM Cortex-M4** architecture, **RTOS**, and **networking** basics (TCP/IP model, DHCP, DNS).
 
 - **Microcontrollers & Embedded Systems**: Worked with **STM32** and **Embedded Linux**; **ARM assembly** for low-level programming and debugging with **GDB**.
@@ -13,6 +15,7 @@
 - **Programming**: Comfortable with **C**, **C++**, **Python**, **Bash scripting** and basic **socket programming**.
 
 ## My Competitions and Projects
+
 ### Eurobot finals 2024
 
 - The Eurobot competition in Roche-sur-Yon, France, is an annual international robotics contest where student teams design and build autonomous robots to complete specific tasks. This event fosters innovation, teamwork, and technical skills in robotics and engineering.
