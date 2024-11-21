@@ -18,9 +18,16 @@
 
 ### Eurobot finals 2024
 
-- The Eurobot competition in Roche-sur-Yon, France, is an annual international robotics contest where student teams design and build autonomous robots to complete specific tasks. This event fosters innovation, teamwork, and technical skills in robotics and engineering.
+- The **Eurobot** competition in Roche-sur-Yon, France, is an annual international robotics contest where student teams design and build autonomous robots to complete specific tasks. This event fosters innovation, teamwork, and technical skills in robotics and engineering.
 
 ![image](https://github.com/GhassenHafsiaINSAT/GhassenHafsiaINSAT/assets/110825502/43f34d11-d3db-4d42-9628-4e1af9512cec)
+
+### National Robotic Weekend (NRW) challenges 
+- I proudly secured the second prize twice at the **National Robotic Weekend (NRW)**, a national robotics congress hosted annually by the **IEEE RAS Chapter**. I achieved this in the **Orange Hackathon** (2023) and the **ECPC Challenge** (2024), hosted by **Actia** and **Marry Cutos**.
+![image](https://github.com/user-attachments/assets/85a58921-9b89-409a-ad6f-9e46ca7c24cb)
+![zRFmijmz](https://github.com/user-attachments/assets/adb1a035-a99c-4909-97e5-edcca626749f)
+ 
+
 
 
 
