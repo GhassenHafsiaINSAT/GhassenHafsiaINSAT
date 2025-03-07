@@ -23,7 +23,7 @@
 ![image](https://github.com/GhassenHafsiaINSAT/GhassenHafsiaINSAT/assets/110825502/43f34d11-d3db-4d42-9628-4e1af9512cec)
 
 ### National Robotic Weekend (NRW) challenges 
-- I proudly secured the second prize twice at the **National Robotic Weekend (NRW)**, a national robotics congress hosted annually by the **IEEE RAS Chapter**. I achieved this in the **Orange Hackathon** (2023) and the **ECPC Challenge** (2024), hosted by **Actia** and **Marry Cutos**.
+- I proudly secured the second prize twice at the **National Robotic Weekend (NRW)**, a national robotics congress hosted annually by the **IEEE RAS Chapter**. I achieved this in the **Orange Hackathon** (2023) and the **ECPC Challenge** (2024), hosted by **Actia** and **Marry Custos**.
 ![image](https://github.com/user-attachments/assets/85a58921-9b89-409a-ad6f-9e46ca7c24cb)
 ![zRFmijmz](https://github.com/user-attachments/assets/adb1a035-a99c-4909-97e5-edcca626749f)
  
